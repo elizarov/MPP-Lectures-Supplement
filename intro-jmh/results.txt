@@ -1,0 +1,3 @@
+Benchmark                  Score            Error  Units
+SimpleTest1.group 97,150,871.246 ± 28,985,900.030  ops/s
+SimpleTest2.group 44,168,485.894 ±  2,244,677.631  ops/s
